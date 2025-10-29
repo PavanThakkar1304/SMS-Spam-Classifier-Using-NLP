@@ -49,4 +49,4 @@ cd SMS-Spam-Classifier-Using-NLP
 pip install -r requirements.txt
 
 # 4. Run the notebook
-jupyter notebook sms_spam_classifier.ipynb
+jupyter notebook SPAM or HAM Classification Using NLP (2).ipynb
